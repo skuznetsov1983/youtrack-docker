@@ -1,4 +1,4 @@
-FROM java:8-jre
+FROM java:9-jre
 MAINTAINER tech@uniplug.ru
 
 RUN mkdir -p /opt/youtrack/data /opt/youtrack/backup /opt/youtrack/bin
